@@ -33,5 +33,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+  offspring = ["Quentin", "James", "Frances", "Violet", "arrays!"]
+  offspring[-1]
 end
